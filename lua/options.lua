@@ -1,4 +1,5 @@
 require "nvchad.options"
+vim.opt.shell = "/usr/bin/fish"
 
 -- add yours here!
 
