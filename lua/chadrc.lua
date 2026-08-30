@@ -10,8 +10,8 @@ vim.diagnostic.config({
 })
 
 M.base46 = {
-  theme = "catppuccin",
-
+  theme = "bearded-arc",
+  transparency = true,
   hl_override = {
     Comment = { italic = true },
     ["@comment"] = { italic = true },
